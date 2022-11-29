@@ -1,0 +1,18 @@
+.home{
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.9), rgba(255,255,255, 0.1)), url('https://images.unsplash.com/photo-1606744824163-985d376605aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2NTQ1MjUzMA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home_furniture{
+  text-align: center;
+  color: white;
+  font-weight: 900;
+  letter-spacing: 1.3px;
+}
